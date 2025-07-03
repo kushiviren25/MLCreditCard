@@ -1,2 +1,2 @@
 # MLCreditCard
-ML Credit Card Fraud Detection aims on marking down fraudulent transactions using prominent ML models and handles class imbalance issues. It provides visualization of the fraudulent transactions vs non fraud transactions and uses FastAPI to integrate with external systems .
+ML Credit Card Fraud Detection aims on marking down fraudulent transactions using prominent ML models like Logistic Regression, Random Forest Classifier and XGBoost models  using Scikit-learn and XGBoost libraries . It is able to handle class imbalance issues using SMOTE sampling techniques and a Recall of 80% was obtained using XGBoost. The visualization of the fraudulent vs non- fraudulent transcations is done uisng Matplotlib.
